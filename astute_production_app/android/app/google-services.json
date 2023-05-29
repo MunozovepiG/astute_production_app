@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70339928856",
+    "project_id": "astuteproductionapp",
+    "storage_bucket": "astuteproductionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70339928856:android:72c95111ac76da717db46d",
+        "android_client_info": {
+          "package_name": "com.example.astute_prouduction_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPh0TYFVsVuGF1Qgbl0bGkccdBYBTftI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
